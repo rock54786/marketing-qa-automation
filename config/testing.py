@@ -12,7 +12,7 @@ class Account:
     Account
     """
     USER_NAME = "autotest.aftership@gmail.com"
-    PASSWORD = "$^*ENCRYPT=LR8bZlAnU09hYn8XLS0vEQ==?&#$"
+    PASSWORD = "$^*ENCRYPT=Bx4VCABTGGZhf2UuEQ==?&#$"
 
 
 class AfterShipTool:
