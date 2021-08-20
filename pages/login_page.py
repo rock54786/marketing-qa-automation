@@ -24,4 +24,4 @@ class LoginPage:
         self.driver.type(Login.password, encryption.decrypt(ENV.PASSWORD))
         self.driver.click(Login.login_btn)
         self.driver.wait_for_element_visible(Home.welcome_title_txt, 20)
-        assert self.driver.get_title() == "AfterShip - admin", "Fail to login"
+        assert self.driver.get_title() == "Automizely Marketing", "Fail to login"

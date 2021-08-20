@@ -1,3 +1,5 @@
+from seleniumbase import By
+
 
 class Setting:
     """

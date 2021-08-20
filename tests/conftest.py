@@ -14,4 +14,4 @@ def driver(base_driver):
     driver.maximize_window()
     driver.open(ENV.URL)
     yield base_driver
-    driver.quit_all_drivers()
+    # driver.quit_all_drivers()
