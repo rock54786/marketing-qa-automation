@@ -76,3 +76,5 @@ test_home.py::TestHome::test_toc_popup
 test_home.py::TestHome::test_toc_popup
 test_home.py::TestHome::test_toc_popup
 test_home.py::TestHome::test_toc_popup
+test_home.py::TestHome::test_popup_save
+test_home.py::TestHome::test_toc_popup

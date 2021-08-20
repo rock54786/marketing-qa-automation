@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be217c9d-d0a2-4fa7-b38d-86e153b0b996" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/failures" beforeDir="false" afterPath="$PROJECT_DIR$/tests/failures" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_home.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +150,8 @@
       <workItem from="1628749142577" duration="296000" />
       <workItem from="1628754110127" duration="100000" />
       <workItem from="1628754243831" duration="47000" />
+      <workItem from="1629447503105" duration="32000" />
+      <workItem from="1629447747480" duration="46000" />
     </task>
     <servers />
   </component>
