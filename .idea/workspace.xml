@@ -3,6 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="be217c9d-d0a2-4fa7-b38d-86e153b0b996" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/analytics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/connections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/customer_reviews.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/delivery_date_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/notifications.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/order_lookup_widget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/refer_to_earn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/shippment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/store.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/tracking_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/tracking_pages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/analytics_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/apps_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/connections_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/customer_reviews_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/delivery_date_settings_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/notifications_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order_lookup_widget_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/refer_to_earn_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/setting_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/shipment_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tracking_app_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tracking_pages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_analytics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_connections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_customer_reviews.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_delivery_date_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_popup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_notifications.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_order_lookup_widget.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_refer_to_earn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_shipment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_tracking_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_tracking_pages.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +70,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test_home">
-    <configuration name="test_home" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_popup">
+    <configuration name="test_popup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -46,7 +84,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_home.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/test_popup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +144,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_home.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_popup.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="aftership-qa-automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,15 +157,15 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_home.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_popup.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_home" />
+        <item itemvalue="Python.test_popup" />
         <item itemvalue="Python tests.pytest for test_home.TestHome.test_plan_100628" />
-        <item itemvalue="Python tests.pytest in test_home.py" />
+        <item itemvalue="Python tests.pytest in test_popup.py" />
         <item itemvalue="Python tests.pytest for test_home.TestHome.test_welcome_title_100627" />
         <item itemvalue="Python tests.pytest for test_home.TestHome" />
       </list>
@@ -152,11 +190,23 @@
       <workItem from="1628754243831" duration="47000" />
       <workItem from="1629447503105" duration="32000" />
       <workItem from="1629447747480" duration="46000" />
+      <workItem from="1629801617338" duration="308000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/marketing_qa_automation$test.coverage" NAME="test Coverage Results" MODIFIED="1628148055398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
