@@ -4,7 +4,7 @@ class Env:
     """
     Env
     """
-    URL = "https://admin.aftership.com/"
+    URL = "https://marketing.automizely.io/"
 
 
 class Account:

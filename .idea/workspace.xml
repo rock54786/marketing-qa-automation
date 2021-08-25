@@ -2,45 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be217c9d-d0a2-4fa7-b38d-86e153b0b996" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locators/store_page_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/analytics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/connections.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/customer_reviews.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/delivery_date_settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/notifications.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/order_lookup_widget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/refer_to_earn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/setting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/shippment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/store.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/tracking_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/tracking_pages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/analytics_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/apps_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/connections_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customer_reviews_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/delivery_date_settings_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/notifications_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order_lookup_widget_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/refer_to_earn_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/setting_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shipment_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tracking_app_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tracking_pages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_analytics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_connections.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_customer_reviews.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_delivery_date_settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_popup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_notifications.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_order_lookup_widget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_refer_to_earn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_setting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_shipment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tracking_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tracking_pages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/home_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/login_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locators/store.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/popup_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/popup_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/store_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/store_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_popup.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_popup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/tracking_num_util.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +46,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.test_popup">
     <configuration name="test_popup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -207,16 +189,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$test.coverage" NAME="test Coverage Results" MODIFIED="1628148055398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$test_home.coverage" NAME="test_home Coverage Results" MODIFIED="1628754143511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$pytest_for_test_home_TestHome_test_quota_usage_100629.coverage" NAME="pytest for test_home.TestHome.test_quota_usage_100629 Coverage Results" MODIFIED="1627640798445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$pytest_for_test_home_TestHome_test_welcome_title_100627.coverage" NAME="pytest for test_home.TestHome.test_welcome_title_100627 Coverage Results" MODIFIED="1628237406163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$pytest_in_test_home_py.coverage" NAME="pytest in test_home.py Coverage Results" MODIFIED="1628241660571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$pytest_for_test_home_TestHome.coverage" NAME="pytest for test_home.TestHome Coverage Results" MODIFIED="1628237050151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/aftership_qa_automation$pytest_for_test_home_TestHome.coverage" NAME="pytest for test_home.TestHome Coverage Results" MODIFIED="1627635375161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$tracking_num_util.coverage" NAME="tracking_num_util Coverage Results" MODIFIED="1627640785502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
-    <SUITE FILE_PATH="coverage/marketing_qa_automation$pytest_for_test_home_TestHome_test_plan_100628.coverage" NAME="pytest for test_home.TestHome.test_plan_100628 Coverage Results" MODIFIED="1628561230805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1,5 +1,5 @@
 
-class Login:
+class LoginPageLocators:
     """
     Login page locators
     """
