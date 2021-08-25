@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be217c9d-d0a2-4fa7-b38d-86e153b0b996" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/analytics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/connections.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/customer_reviews.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/delivery_date_settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/notifications.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/order_lookup_widget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/refer_to_earn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/setting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/shippment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/store.py" beforeDir="false" afterPath="$PROJECT_DIR$/locators/store.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/tracking_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/locators/tracking_pages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/analytics_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/apps_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/connections_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/customer_reviews_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/delivery_date_settings_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/notifications_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/order_lookup_widget_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/refer_to_earn_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/setting_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/shipment_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tracking_app_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/tracking_pages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_analytics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_connections.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_customer_reviews.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_delivery_date_settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_home.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_popup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_notifications.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_order_lookup_widget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_refer_to_earn.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_setting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_shipment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tracking_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tracking_pages.py" beforeDir="false" />
-    </list>
+    <list default="true" id="be217c9d-d0a2-4fa7-b38d-86e153b0b996" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,7 +150,7 @@
       <workItem from="1628754243831" duration="47000" />
       <workItem from="1629447503105" duration="32000" />
       <workItem from="1629447747480" duration="46000" />
-      <workItem from="1629801617338" duration="308000" />
+      <workItem from="1629801617338" duration="739000" />
     </task>
     <servers />
   </component>
